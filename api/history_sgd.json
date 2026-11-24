@@ -3,14 +3,14 @@
   "title": "دلار سنگاپور",
   "unit": "تومان",
   "timezone": "Asia/Tehran",
-  "updated_at": "2026-11-24 14:19:47",
-  "total_records": 1221,
+  "updated_at": "2026-11-25 00:24:14",
+  "total_records": 1222,
   "latest": {
-    "timestamp": 1795517387,
-    "date": "2026-11-24",
-    "price": 219900,
-    "price_toman": 219900,
-    "price_irr": 2199000
+    "timestamp": 1795553654,
+    "date": "2026-11-25",
+    "price": 220980,
+    "price_toman": 220980,
+    "price_irr": 2209800
   },
   "history": [
     {
@@ -8559,6 +8559,13 @@
       "price": 219900,
       "price_toman": 219900,
       "price_irr": 2199000
+    },
+    {
+      "timestamp": 1795553654,
+      "date": "2026-11-25",
+      "price": 220980,
+      "price_toman": 220980,
+      "price_irr": 2209800
     }
   ]
 }
